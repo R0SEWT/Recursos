@@ -1,0 +1,6 @@
+A veces no es posible determinar con facilidad el tamaño exacto de un vector,
+ pero en C++ existen varias formas de determinar el tamaño de un array o vector fácilmente,
+ aquí explicare un método. Cabe notar que este tamaño es el que ira como tope del ciclo for y
+ sería equivalente a que nosotros mismos, en caso de saber el tamaño del vector, lo pongamos 
+allí, sin embargo como veremos en otra sección no siempre es posible saber con certeza el 
+tamaño de un vector, es por esto que explico
